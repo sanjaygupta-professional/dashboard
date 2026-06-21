@@ -1,0 +1,6 @@
+[
+  {"name":"alpha-site","private":false,"description":"A deployed site","language":"HTML","stargazers_count":3,"pushed_at":"2026-06-18T10:00:00Z","html_url":"https://github.com/sanjaygupta-professional/alpha-site","homepage":"","has_pages":true,"owner":{"login":"sanjaygupta-professional"}},
+  {"name":"beta-tool","private":false,"description":"CLI with external deploy","language":"Go","stargazers_count":0,"pushed_at":"2026-06-10T08:00:00Z","html_url":"https://github.com/sanjaygupta-professional/beta-tool","homepage":"https://beta.example.com","has_pages":false,"owner":{"login":"sanjaygupta-professional"}},
+  {"name":"gamma-lib","private":false,"description":null,"language":null,"stargazers_count":1,"pushed_at":"2026-05-01T08:00:00Z","html_url":"https://github.com/rai-learning-map/gamma-lib","homepage":"","has_pages":false,"owner":{"login":"rai-learning-map"}},
+  {"name":"secret-x","private":true,"description":"hidden","language":"Python","stargazers_count":0,"pushed_at":"2026-06-19T08:00:00Z","html_url":"https://github.com/sanjaygupta-professional/secret-x","homepage":"","has_pages":false,"owner":{"login":"sanjaygupta-professional"}}
+]
